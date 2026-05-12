@@ -1,6 +1,7 @@
 # US-Coffee-Shop-Sales-Analysis
 ### This Repository has US Coffee Shop Sales Analysis projects.
 
+_"From the First Sip to the Last Sale — Every Cup Has a Story Worth Analyzing"_
 
 ## Project Overview
 US Coffee Shop Sales Analysis Dashboard is a comprehensive retail analytics project built entirely in Microsoft Excel and Power Bi, analyzing transactional sales data from a multi-location coffee shop chain operating across three New York City neighborhoods — Astoria, Hell's Kitchen, and Lower Manhattan. The dataset spans 6 months (January to June) with 149,116 total footfall transactions generating $698,812.33 in total revenue.
@@ -109,3 +110,6 @@ The analysis covers hourly order patterns, product category performance, order s
 
 ## Conclusion
 The Coffee Shop Sales Dashboard provides a comprehensive view of sales performance, customer behavior, and operational trends across multiple store locations. By analyzing key metrics such as total sales, customer footfall, product demand, peak ordering hours, and store-wise performance, the dashboard helps management make data-driven decisions to improve business efficiency and profitability. The analysis reveals that coffee products contribute the highest share of revenue, while morning hours generate the maximum customer traffic, highlighting opportunities for targeted staffing and promotional strategies. Additionally, insights into customer preferences, order sizes, and top-selling products support better inventory planning and menu optimization. Store-level comparisons further help identify high-performing locations and areas requiring improvement. Overall, this project demonstrates how business intelligence and data visualization can transform raw sales data into actionable insights, enabling coffee shop management to enhance customer experience, optimize operations, increase revenue, and support long-term business growth.
+
+
+_"Great coffee deserves great data — and great data deserves a good dashboard."_
